@@ -1,0 +1,379 @@
+{
+ "file": "HAd3I2CYWl0dzYKKN5cKiC",
+ "frames": {
+  "16x9": {
+   "name": "AG-60517 · Event Card 16:9",
+   "node": "3187:2995",
+   "size": [
+    1920,
+    1080
+   ],
+   "pieces": [
+    {
+     "slug": "glow",
+     "node": "3187:2996",
+     "label": "Glow ellipse",
+     "x": 1048.0,
+     "y": 189.0,
+     "w": 2964.0,
+     "h": 2964.0,
+     "bbox": [
+      1048.0,
+      189.0,
+      964.0,
+      964.0
+     ],
+     "render_bbox": [
+      48.0,
+      0.0,
+      1872.0,
+      1080.0
+     ],
+     "origin": "bbox"
+    },
+    {
+     "slug": "badge",
+     "node": "3187:2997",
+     "label": "Badge / Major Update",
+     "x": 104.0,
+     "y": 86.0,
+     "w": 272.0,
+     "h": 61.0,
+     "bbox": [
+      104.0,
+      86.0,
+      272.0,
+      61.0
+     ],
+     "render_bbox": [
+      104.0,
+      86.0,
+      272.0,
+      61.0
+     ],
+     "origin": "render"
+    },
+    {
+     "slug": "title",
+     "node": "3187:2999",
+     "label": "AdGuard v5 is here",
+     "x": 104.13,
+     "y": 222.92,
+     "w": 734.0,
+     "h": 230.0,
+     "bbox": [
+      104.0,
+      205.0,
+      739.0,
+      272.0
+     ],
+     "render_bbox": [
+      104.13,
+      222.92,
+      733.374,
+      229.99
+     ],
+     "origin": "render"
+    },
+    {
+     "slug": "subtitle",
+     "node": "3187:3000",
+     "label": "Reimagined. More powerful",
+     "x": 107.154,
+     "y": 502.462,
+     "w": 483.0,
+     "h": 38.0,
+     "bbox": [
+      104.0,
+      494.0,
+      489.0,
+      48.0
+     ],
+     "render_bbox": [
+      107.154,
+      502.462,
+      482.904,
+      37.62
+     ],
+     "origin": "render"
+    },
+    {
+     "slug": "chip-ads",
+     "node": "3187:3003",
+     "label": "Chip / Clean Safari",
+     "x": 80.0,
+     "y": 612.0,
+     "w": 472.0,
+     "h": 102.0,
+     "bbox": [
+      80.0,
+      612.0,
+      471.456,
+      101.736
+     ],
+     "render_bbox": [
+      80.0,
+      612.0,
+      471.456,
+      101.736
+     ],
+     "origin": "render"
+    },
+    {
+     "slug": "chip-trackers",
+     "node": "3187:3008",
+     "label": "Chip / Tracker protection",
+     "x": 575.126,
+     "y": 612.0,
+     "w": 398.0,
+     "h": 102.0,
+     "bbox": [
+      575.126,
+      612.0,
+      397.456,
+      101.736
+     ],
+     "render_bbox": [
+      575.126,
+      612.0,
+      397.456,
+      101.736
+     ],
+     "origin": "render"
+    },
+    {
+     "slug": "chip-device",
+     "node": "3187:3015",
+     "label": "Chip / DNS privacy",
+     "x": 80.0,
+     "y": 737.406,
+     "w": 517.0,
+     "h": 102.0,
+     "bbox": [
+      80.0,
+      737.406,
+      516.453,
+      101.736
+     ],
+     "render_bbox": [
+      80.0,
+      737.406,
+      516.453,
+      101.736
+     ],
+     "origin": "render"
+    },
+    {
+     "slug": "character",
+     "node": "3187:3022",
+     "label": "Agnar King (bust)",
+     "x": 960.0,
+     "y": 70.0,
+     "w": 1120.0,
+     "h": 1120.0,
+     "bbox": [
+      960.0,
+      70.0,
+      1120.0,
+      1120.0
+     ],
+     "render_bbox": [
+      960.0,
+      70.0,
+      960.0,
+      1010.0
+     ],
+     "origin": "bbox"
+    }
+   ],
+   "frame_svg": "_frame.svg"
+  },
+  "9x16": {
+   "name": "AG-60517 · Event Details 9:16",
+   "node": "3187:3529",
+   "size": [
+    1080,
+    1920
+   ],
+   "pieces": [
+    {
+     "slug": "glow",
+     "node": "3187:3530",
+     "label": "Glow ellipse",
+     "x": 728.0,
+     "y": 519.0,
+     "w": 2964.0,
+     "h": 2964.0,
+     "bbox": [
+      728.0,
+      519.0,
+      964.0,
+      964.0
+     ],
+     "render_bbox": [
+      0.0,
+      0.0,
+      1080.0,
+      1920.0
+     ],
+     "origin": "bbox"
+    },
+    {
+     "slug": "badge",
+     "node": "3187:4163",
+     "label": "Badge / Major Update",
+     "x": 64.0,
+     "y": 70.0,
+     "w": 272.0,
+     "h": 61.0,
+     "bbox": [
+      64.0,
+      70.0,
+      272.0,
+      61.0
+     ],
+     "render_bbox": [
+      64.0,
+      70.0,
+      272.0,
+      61.0
+     ],
+     "origin": "render"
+    },
+    {
+     "slug": "title",
+     "node": "3187:4165",
+     "label": "AdGuard v5 is here",
+     "x": 64.13,
+     "y": 214.92,
+     "w": 734.0,
+     "h": 230.0,
+     "bbox": [
+      64.0,
+      197.0,
+      739.0,
+      272.0
+     ],
+     "render_bbox": [
+      64.13,
+      214.92,
+      733.374,
+      229.99
+     ],
+     "origin": "render"
+    },
+    {
+     "slug": "subtitle",
+     "node": "3187:4166",
+     "label": "Reimagined. More powerful",
+     "x": 67.154,
+     "y": 511.298,
+     "w": 256.0,
+     "h": 83.0,
+     "bbox": [
+      64.0,
+      502.0,
+      326.0,
+      96.0
+     ],
+     "render_bbox": [
+      67.154,
+      511.298,
+      255.758,
+      82.998
+     ],
+     "origin": "render"
+    },
+    {
+     "slug": "chip-ads",
+     "node": "3187:4168",
+     "label": "Chip / Ad blocking",
+     "x": 49.0,
+     "y": 1076.0,
+     "w": 282.0,
+     "h": 207.0,
+     "bbox": [
+      49.0,
+      1076.0,
+      281.746,
+      206.441
+     ],
+     "render_bbox": [
+      49.0,
+      1076.0,
+      281.746,
+      206.441
+     ],
+     "origin": "render"
+    },
+    {
+     "slug": "chip-trackers",
+     "node": "3187:4173",
+     "label": "Chip / Tracker protection",
+     "x": 49.0,
+     "y": 1314.441,
+     "w": 282.0,
+     "h": 207.0,
+     "bbox": [
+      49.0,
+      1314.441,
+      281.746,
+      206.441
+     ],
+     "render_bbox": [
+      49.0,
+      1314.441,
+      281.746,
+      206.441
+     ],
+     "origin": "render"
+    },
+    {
+     "slug": "chip-device",
+     "node": "3187:4185",
+     "label": "Chip / Clean Safari",
+     "x": 49.0,
+     "y": 1552.883,
+     "w": 282.0,
+     "h": 208.0,
+     "bbox": [
+      49.0,
+      1552.883,
+      281.746,
+      207.646
+     ],
+     "render_bbox": [
+      49.0,
+      1552.883,
+      281.746,
+      207.646
+     ],
+     "origin": "render"
+    },
+    {
+     "slug": "character",
+     "node": "3187:3531",
+     "label": "Agnar King (full)",
+     "x": 147.0,
+     "y": 456.0,
+     "w": 1073.0,
+     "h": 1430.0,
+     "bbox": [
+      147.0,
+      456.0,
+      1073.0,
+      1430.0
+     ],
+     "render_bbox": [
+      147.0,
+      456.0,
+      933.0,
+      1430.0
+     ],
+     "origin": "bbox"
+    }
+   ],
+   "frame_svg": "_frame.svg"
+  }
+ }
+}
